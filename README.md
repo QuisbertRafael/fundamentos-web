@@ -16,5 +16,4 @@
 
 
 
-#### Autor
-##### Rafael Quisbert
+##### - Rafael Quisbert
