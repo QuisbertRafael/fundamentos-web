@@ -13,5 +13,8 @@
 ### ¿Por que es importante estructurar bien un proyecto?
 #### Porque de lo contrario seria confuso tanto para uno mismo como con el equipo el entender que cosas se esta haciendo, además de que si esta organizado sería muchisimo más sencillo el poder ver donde falló algo o que errores hay para poder corregirlos de forma más rapida
 
+
+
+
 #### Autor
 ##### Rafael Quisbert
